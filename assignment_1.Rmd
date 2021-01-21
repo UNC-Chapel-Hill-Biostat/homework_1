@@ -1,8 +1,0 @@
----
-title: "Homework 1"
-subtitle: "BIOS 635"
-author: "..."
-date: "1/21/2021"
-output: html_document
----
-
